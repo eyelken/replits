@@ -15,7 +15,7 @@ public class StringWithoutX {
 //	    System.out.println(wordWithoutX);
 //
 //}
-//}w
+//}
 
 		if (word.startsWith("x") || word.startsWith("X")) {
 			System.out.println(word.substring(1, word.length()));
